@@ -1,0 +1,56 @@
+body{
+    background-color: #162059 !important;
+}
+p{
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 5rem;
+    text-align: center;
+    color: #fcfda3
+}
+button{
+    margin: 1.5rem !important;
+    display: inline-block;
+}
+section{
+    text-align: center;
+}
+#btn2{
+    height: 15rem !important;
+    width: 15rem !important;
+    border: 1.5rem solid black  !important;
+    border-radius: 20% !important;
+    background-color: blue;
+}
+#btn1{
+    height: 15rem !important;
+    width: 15rem !important;
+    border: 1.5rem solid black  !important;
+    border-radius: 20% !important;
+    background-color: green;
+}
+#btn3{
+    height: 15rem !important;
+    width: 15rem !important;
+    border: 1.5rem solid black  !important;
+    border-radius: 20% !important;
+    background-color: yellow;
+}
+#btn0{height: 15rem !important;
+    width: 15rem !important;
+    border: 1.5rem solid black  !important;
+    border-radius: 20% !important;
+    background-color: red;
+} 
+
+.animation{
+    opacity: 50%;
+    background-color: gray !important;
+    /* transform: scale(1.08); */
+    box-shadow: 0 0 20px white !important;
+}
+
+.gameover{
+    background-color: red !important;
+   
+}
